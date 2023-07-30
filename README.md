@@ -8,6 +8,10 @@
 Gopalsk07/Gopalsk07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-27486599
-nskxnc
-nxnd
+echo "# Mantri-mall" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Gopalsk07/Mantri-mall.git
+git push -u origin main
